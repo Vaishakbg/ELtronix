@@ -1,0 +1,22 @@
+{
+  "name": "eltronix-theme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^8.2.0",
+    "vite-plugin-full-reload": "^1.2.0"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "alpinejs": "^3.15.12",
+    "tailwindcss": "^4.3.3"
+  }
+}

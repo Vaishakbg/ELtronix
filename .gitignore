@@ -3,3 +3,16 @@ upgrade/
 cache/
 ai1wm-backups/
 debug.log
+
+# Node
+themes/eltronix-theme/node_modules/
+themes/eltronix-theme/dist/
+
+# Logs
+themes/eltronix-theme/npm-debug.log*
+themes/eltronix-theme/yarn-debug.log*
+themes/eltronix-theme/yarn-error.log*
+
+# Environment
+themes/eltronix-theme/.env
+themes/eltronix-theme/.env.local

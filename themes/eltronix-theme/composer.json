@@ -1,0 +1,19 @@
+{
+    "name": "vaishakbg/eltronix-theme",
+    "description": "Modern WordPress theme for Eltronix",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Eltronix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vaishakbg",
+            "email": "vaishakbg@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
