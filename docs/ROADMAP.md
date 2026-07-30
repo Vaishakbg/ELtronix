@@ -4,9 +4,9 @@
 - [x] Local WordPress setup
 - [x] Git & GitHub
 - [x] Theme structure
-- [ ] Vite setup
-- [ ] Tailwind setup
-- [ ] Alpine.js setup
+- [x] Vite setup
+- [x] Tailwind setup
+- [x] Alpine.js setup
 
 ---
 

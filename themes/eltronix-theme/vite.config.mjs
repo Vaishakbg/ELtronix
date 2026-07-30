@@ -18,7 +18,7 @@ export default defineConfig({
     manifest: true,
     rollupOptions: {
       input: {
-        app: resolve(__dirname, 'assets/js/app.js'),
+        app: resolve(import.meta.dirname, 'assets/js/app.js'),
       },
     },
   },
